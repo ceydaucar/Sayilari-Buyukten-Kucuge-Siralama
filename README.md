@@ -35,6 +35,7 @@ Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Pratik5 - Sayılar�
                       else
                           System.out.print(num2 + ">" + num3 + ">" + num1);
                   }
+                  
                   if (num3 > num1 && num3 > num2) {
                       if (num1 > num2)
                           System.out.print(num3 + ">" + num1 + ">" + num2);
